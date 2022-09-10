@@ -5,7 +5,7 @@ I'm a tech enthusiast and a Web Developer.
 You can checkout some of my projects [here](https://github.com/gokulramghv?tab=repositories)!
 
 
-<h3><p align="center">Skills</p></h3>
+<h3><p align="center">🛠️ Skills</p></h3>
 
 <p align="center">
   <a href="https://github.com/gokulramghv?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
