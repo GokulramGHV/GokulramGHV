@@ -24,6 +24,8 @@ You can checkout some of my projects [here](https://github.com/gokulramghv?tab=r
 </details>
 
 [![Views](https://komarev.com/ghpvc/?username=gokulramghv&color=fc5858&label=Profile+View+Count)](https://github.com/gokulramghv)<br>
+
+[![@gokulghv's Holopin board](https://holopin.me/gokulghv)](https://holopin.io/@gokulghv)
 <!--
 **GokulramGHV/GokulramGHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
