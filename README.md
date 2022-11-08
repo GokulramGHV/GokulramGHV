@@ -2,14 +2,14 @@
 Hey there, I'm a 19 year old engineering undergrad
 pursuing B.Tech Information Technology at SSNCE.
 I'm a tech enthusiast and a Web Developer.
-You can checkout some of my projects [here](https://github.com/gokulramghv?tab=repositories)!
+You can checkout some of my projects [here](https://github.com/gokulramghv?tab=repositories&q=&type=&language=&sort=stargazers)!
 
 
 <h3><p align="center">🛠️ Skills</p></h3>
 
 <p align="center">
   <a href="https://github.com/gokulramghv?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,django,flask,nodejs,expressjs,mongo,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,django,flask,nodejs,expressjs,mongo,react,tailwind&perline=7" />
   </a>
 </p>
 
