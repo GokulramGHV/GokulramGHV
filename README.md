@@ -1,5 +1,5 @@
 # Hi, there!👋
-Hey there, I'm a 19 year old engineering undergrad
+Hey there, I'm a 20 year old engineering undergrad
 pursuing B.Tech Information Technology at SSNCE.
 I'm a tech enthusiast and a Web Developer.
 You can checkout some of my projects [here](https://github.com/gokulramghv?tab=repositories&q=&type=&language=&sort=stargazers)!
