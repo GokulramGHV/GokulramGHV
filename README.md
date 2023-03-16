@@ -9,7 +9,7 @@ You can checkout some of my projects [here](https://github.com/gokulramghv?tab=r
 
 <p align="center">
   <a href="https://github.com/gokulramghv?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,django,flask,nodejs,expressjs,mongo,react,tailwind&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,django,flask,nodejs,expressjs,mongo,react,nextjs,tailwind,materialui&perline=8" />
   </a>
 </p>
 
